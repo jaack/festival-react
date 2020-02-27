@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/festival-react/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/festival-react/static/js/main.d0d3fd5c.chunk.js",
-    "main.js.map": "/festival-react/static/js/main.d0d3fd5c.chunk.js.map",
+    "main.js": "/festival-react/static/js/main.415fd425.chunk.js",
+    "main.js.map": "/festival-react/static/js/main.415fd425.chunk.js.map",
     "runtime-main.js": "/festival-react/static/js/runtime-main.31ccbebd.js",
     "runtime-main.js.map": "/festival-react/static/js/runtime-main.31ccbebd.js.map",
-    "static/js/2.c25c3375.chunk.js": "/festival-react/static/js/2.c25c3375.chunk.js",
-    "static/js/2.c25c3375.chunk.js.map": "/festival-react/static/js/2.c25c3375.chunk.js.map",
+    "static/js/2.c415f246.chunk.js": "/festival-react/static/js/2.c415f246.chunk.js",
+    "static/js/2.c415f246.chunk.js.map": "/festival-react/static/js/2.c415f246.chunk.js.map",
     "index.html": "/festival-react/index.html",
-    "precache-manifest.3ff90182509d1b0407b55877f2ff8f84.js": "/festival-react/precache-manifest.3ff90182509d1b0407b55877f2ff8f84.js",
+    "precache-manifest.95be9b708072b9f2d82add6c1a5c7341.js": "/festival-react/precache-manifest.95be9b708072b9f2d82add6c1a5c7341.js",
     "service-worker.js": "/festival-react/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/festival-react/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.c25c3375.chunk.js.LICENSE.txt": "/festival-react/static/js/2.c25c3375.chunk.js.LICENSE.txt"
+    "static/js/2.c415f246.chunk.js.LICENSE.txt": "/festival-react/static/js/2.c415f246.chunk.js.LICENSE.txt",
+    "static/media/stars.svg": "/festival-react/static/media/stars.12c3fbe4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.31ccbebd.js",
-    "static/js/2.c25c3375.chunk.js",
+    "static/js/2.c415f246.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d0d3fd5c.chunk.js"
+    "static/js/main.415fd425.chunk.js"
   ]
 }

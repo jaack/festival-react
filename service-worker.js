@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/festival-react/precache-manifest.95be9b708072b9f2d82add6c1a5c7341.js"
+  "/festival-react/precache-manifest.f965a9c11cbd606b0865acd7c10200ea.js"
 );
 
 self.addEventListener('message', (event) => {

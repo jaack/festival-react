@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/festival-react/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/festival-react/static/js/main.beeb6984.chunk.js",
-    "main.js.map": "/festival-react/static/js/main.beeb6984.chunk.js.map",
+    "main.css": "/festival-react/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/festival-react/static/js/main.4d394a58.chunk.js",
+    "main.js.map": "/festival-react/static/js/main.4d394a58.chunk.js.map",
     "runtime-main.js": "/festival-react/static/js/runtime-main.31ccbebd.js",
     "runtime-main.js.map": "/festival-react/static/js/runtime-main.31ccbebd.js.map",
-    "static/js/2.c6d60114.chunk.js": "/festival-react/static/js/2.c6d60114.chunk.js",
-    "static/js/2.c6d60114.chunk.js.map": "/festival-react/static/js/2.c6d60114.chunk.js.map",
+    "static/js/2.a8e61978.chunk.js": "/festival-react/static/js/2.a8e61978.chunk.js",
+    "static/js/2.a8e61978.chunk.js.map": "/festival-react/static/js/2.a8e61978.chunk.js.map",
     "index.html": "/festival-react/index.html",
-    "precache-manifest.b3ce00bda06fce1f647bf035f221dfec.js": "/festival-react/precache-manifest.b3ce00bda06fce1f647bf035f221dfec.js",
+    "precache-manifest.1fc4a29aab64bc07e6b48c1947411dd7.js": "/festival-react/precache-manifest.1fc4a29aab64bc07e6b48c1947411dd7.js",
     "service-worker.js": "/festival-react/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/festival-react/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.c6d60114.chunk.js.LICENSE.txt": "/festival-react/static/js/2.c6d60114.chunk.js.LICENSE.txt",
-    "static/media/hundredpathanimated.c0bb0a86.svg": "/festival-react/static/media/hundredpathanimated.c0bb0a86.svg",
+    "static/css/main.27fd15f6.chunk.css.map": "/festival-react/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.a8e61978.chunk.js.LICENSE.txt": "/festival-react/static/js/2.a8e61978.chunk.js.LICENSE.txt",
+    "static/media/graffiti-wall.jpg": "/festival-react/static/media/graffiti-wall.5220ce28.jpg",
+    "static/media/hundredsoliddesktop.c767fe93.svg": "/festival-react/static/media/hundredsoliddesktop.c767fe93.svg",
+    "static/media/hundredsolidmobile.b793cce9.svg": "/festival-react/static/media/hundredsolidmobile.b793cce9.svg",
     "static/media/ripples.svg": "/festival-react/static/media/ripples.516ad001.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.31ccbebd.js",
-    "static/js/2.c6d60114.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.beeb6984.chunk.js"
+    "static/js/2.a8e61978.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.4d394a58.chunk.js"
   ]
 }
